@@ -30,5 +30,5 @@ Adam is another method which offeres stochastic optimization via a first order g
 
 # Results 
 
-![alt tag](https://github.com/RecursiveWren/Practicum2/blob/master/Process%20Time.png)
+
 
