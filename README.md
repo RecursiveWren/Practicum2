@@ -29,7 +29,12 @@ Adagrad is an adaptive subgradient optimizer for stochastic optimization. See re
 Adam is another method which offeres stochastic optimization via a first order gradient based algorithm. See reference: https://arxiv.org/abs/1412.6980v8    
 
 # Results 
-The Adam model performs better than other models, showing better accuracy in training and validation as well as significantly less loss at each epoch.  
-    ![alt tag](https://github.com/RecursiveWren/Practicum2/blob/master/Practicum%20Graphs.png)
+The Adam model performs better than other models, showing better accuracy in training and validation as well as significantly less loss at each epoch.
+    Overlap Comparison
+![alt tag](https://github.com/RecursiveWren/Practicum2/blob/master/Practicum%20Graphs.png)
+    Individual Models   
+![alt tag](https://github.com/RecursiveWren/Practicum2/blob/master/Practicum%20graphs2.png)
 
-
+# Next Steps
+* Create confusion matrix in Python, using the axis as the images rather than the label numbers, to be able to determine which images are most commonly mis-classified.    
+* Work further with model train to achieve higher accuracy  
