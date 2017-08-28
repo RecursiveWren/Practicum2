@@ -38,5 +38,5 @@ The Adam model performs better than other models, showing better accuracy in tra
 ![alt tag](https://github.com/RecursiveWren/Practicum2/blob/master/Practicum%20graphs2.png)
 
 # Next Steps
-* Create confusion matrix in Python, using the axis as the images rather than the label numbers, to be able to determine which images are most commonly mis-classified.    
-* Work further with model train to achieve higher accuracy  
+* Create confusion matrix in Python, using the images along the x and y axis, rather than the label numbers, in order to determine which images are more commonly mis-classified.    
+* Work further with model parameters to achieve higher accuracy.  
