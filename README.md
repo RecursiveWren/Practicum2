@@ -33,6 +33,7 @@ The Adam model performs better than other models, showing better accuracy in tra
     
     Overlap Comparison
 ![alt tag](https://github.com/RecursiveWren/Practicum2/blob/master/Practicum%20Graphs.png)
+     
     Individual Models   
 ![alt tag](https://github.com/RecursiveWren/Practicum2/blob/master/Practicum%20graphs2.png)
 
